@@ -4,7 +4,6 @@ TileMapExt.cs
 Description: Unity Tilemap BoxFill is horrible. So why not self-write our own version?
 This is modified from https://forum.unity.com/threads/tilemap-boxfill-is-horrible.502864/
 I created some overloads to make things easier.
-
 Author: Yu Long
 Created: Monday, November 22 2021
 Unity Version: 2020.3.22f1c1
